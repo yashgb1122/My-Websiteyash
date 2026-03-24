@@ -3,6 +3,8 @@
     margin: 0px;
     color: black;
 }
+body{background-color: light-grey;
+}
 
 header{
     width: 100%;
